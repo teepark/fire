@@ -1,0 +1,6 @@
+*.py[co]
+.*.swp
+
+build/*
+dist/*
+fire.egg-info/*
